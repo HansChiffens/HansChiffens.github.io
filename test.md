@@ -1,6 +1,6 @@
 ---
 title: The Bleak
-layout: normal
+layout: default
 category: revolutionary
 ---
 What steps are made?
