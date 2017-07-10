@@ -1,5 +1,5 @@
 ---
-Title: My Github Pages Site
+title: My Github Pages Site
 layout: default
 category: landing_page
 ---
