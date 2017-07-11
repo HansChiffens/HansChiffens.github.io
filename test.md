@@ -11,4 +11,4 @@ What steps are made?
 * chainsaw
 * paint
 
-<b> Due by November 2nd </b>
+#<b> Due by November 2nd </b>
