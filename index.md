@@ -1,5 +1,5 @@
 ---
-title: My Github Pages Site
+title: PolarBear Info
 layout: default
 category: landing_page
 ---
