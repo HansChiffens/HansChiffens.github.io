@@ -20,5 +20,6 @@ border: 1px soild blue;
 
 .splashimage {
   background-image: url("../polarbear.jpg");
-  padding: 400;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
