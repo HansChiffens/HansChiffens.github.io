@@ -1,7 +1,19 @@
 h1 {
   color: red;
+  background-color: green;
+  width: ;
 }
 
 li{
   color: orange;
+}
+
+h2{
+  color: indigo
+}
+
+#topheading {
+background-color: yellow;
+padding: 50px;
+border: 1px soild blue;
 }
