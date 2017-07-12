@@ -3,6 +3,7 @@ title: PolarBear Info
 subtitle: Documetry
 layout: default
 category: landing_page
+padding: 15px
 ---
 My Cool new Site!!
 
