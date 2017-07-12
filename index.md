@@ -7,9 +7,8 @@ category: landing_page
 My Cool new Site!!
 
 ##These are the main cause of why polar bears are endangered...
+###### <h6> This is a level 6th <h6>   
 
 * global warming
 * poaching
 * scare resources
-
-###### <h6> This is a level 6th <h6>   
