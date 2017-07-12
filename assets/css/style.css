@@ -1,7 +1,7 @@
 h1 {
 color: darkblue;
 font-size: 32px;
-padding: 150px;
+padding: 50px;
 }
 
 li{
@@ -25,4 +25,8 @@ border: 1px soild blue;
   font-size: 50px;
   color: black;
 font-family: Bellefair, serif;
+}
+
+p{
+  padding-top: 15px;
 }
